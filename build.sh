@@ -4,6 +4,8 @@
 DEVICES=(
 	nash
 	mata
+	chiron
+	sagit
 )
 #####################################
 
