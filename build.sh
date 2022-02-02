@@ -6,6 +6,8 @@ DEVICES=(
 	mata
 	chiron
 	sagit
+	joan
+        dumpling
 )
 #####################################
 
